@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "176125010180",
+    "project_id": "fcc-chatapp",
+    "storage_bucket": "fcc-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176125010180:android:4dedebb59e55f769513051",
+        "android_client_info": {
+          "package_name": "com.examle.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176125010180-q2f59g69982qhp3pgo0gf3et1n20e0ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDbS806Skohi3oso69zwcsMajbOYi7NuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176125010180-q2f59g69982qhp3pgo0gf3et1n20e0ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176125010180:android:6394de9b6527a047513051",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176125010180-q2f59g69982qhp3pgo0gf3et1n20e0ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDbS806Skohi3oso69zwcsMajbOYi7NuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176125010180-q2f59g69982qhp3pgo0gf3et1n20e0ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
