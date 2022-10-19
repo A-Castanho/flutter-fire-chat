@@ -2,9 +2,8 @@
 
 A Flutter and Firebase chat app in development
 
-## Getting Started
+## Tools
 
-Tools:
 -Firebase Services:
   -Firebase Authentication
   -Firebase Firestore
